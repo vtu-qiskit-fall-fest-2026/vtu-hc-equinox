@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Equinox** · Team ID `VTU-QFF-HC-0141` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Equinox)
+[⬆ Back to Top](#equinox)
 
 </div>
